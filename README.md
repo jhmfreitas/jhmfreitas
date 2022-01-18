@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in [Quorum Born IT](https://qub-it.com/)
+- 🔭 I’m currently working at [Quorum Born IT](https://qub-it.com/)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: jhmfreitas1998@gmail.com or https://www.linkedin.com/in/joaofreitas1998/
 
