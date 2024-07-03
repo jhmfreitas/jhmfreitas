@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Quorum Born IT](https://qub-it.com/)
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: jhmfreitas1998@gmail.com or https://www.linkedin.com/in/joaofreitas1998/
+- 📫 How to reach me: joao.h.m.freitas@gmail.com or https://www.linkedin.com/in/jhmfreitas/
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
