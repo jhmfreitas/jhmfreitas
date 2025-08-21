@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Quorum Born IT](https://qub-it.com/)
+- 🔭 I’m currently working at [Amadeus](https://amadeus.com/en)
 - 📫 How to reach me: joao.h.m.freitas@gmail.com or https://www.linkedin.com/in/jhmfreitas/
 
 <!-- - 👯 I’m looking to collaborate on ...
